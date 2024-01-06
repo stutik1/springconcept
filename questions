@@ -1,0 +1,100 @@
+What is the _Spring Framework_ and what are its core features?
+How do you create a simple _Spring_ application?
+What is _Inversion of Control (IoC)_? How does _Spring_ facilitate _IoC_?
+What is the _ApplicationContext_ in _Spring_?
+Explain _Dependency Injection_ and its types in the _Spring_ context.
+What are _Bean Scopes_ in _Spring_? Name them.
+How do you configure a _bean_ in _Spring_?
+Describe the role of the _Spring Core container_.
+What is a _Spring configuration file_?
+How do you create an _ApplicationContext_ in a _Spring_ application?
+What is _Aspect-Oriented Programming (AOP)_?
+How does _Spring_ support _AOP_?
+Can you explain a _Pointcut_ and an _Advice_ in _Spring AOP_?
+What is a _Join Point_ in _Spring AOP_?
+What is the difference between a _Concern_ and a _Cross-cutting Concern_ in _Spring AOP_?
+Describe the different types of _Advices_ in _AOP_.
+How do you implement _AOP_ in _Spring_?
+What is the _@Aspect_ annotation used for in _Spring AOP_?
+How would you enable _AOP_ in a _Spring_ application?
+Describe how _Spring_ interacts with databases.
+What is the _DataAccessException_ class in _Spring_?
+Explain the _Template design pattern_ as used in _Spring_.
+What is the _Spring JDBC Template_ and how do you use it?
+How does _Spring_ support transaction management?
+Can you explain _Spring’s_ support for _ORM frameworks_?
+What are the key interfaces used for _JDBC_ operations in _Spring_?
+What is the _Spring MVC framework_?
+Describe the architecture of a _Spring MVC_ application.
+What are the roles of the _@Controller_ and _@RequestMapping_ annotations?
+Explain the _DispatcherServlet_ and its functions.
+How do you handle web requests in _Spring MVC_?
+Can you discuss the _Request-response lifecycle_ in a _Spring MVC_ application?
+How do you validate user input in _Spring MVC_?
+What are the differences between _@Controller_ and _@RestController_?
+What is _Spring Boot_ and what are its advantages?
+How do you create a _Spring Boot_ application?
+Explain _Auto-Configuration_ in _Spring Boot_.
+What is a _Spring Boot Starter_?
+How does _Spring Boot_ support data access?
+What is the _embedded server concept_ in _Spring Boot_?
+Explain the role of the _SpringApplication_ class.
+What _properties file_ is used by default in _Spring Boot_?
+What is _Spring Security_ and why is it important?
+Explain how authentication and authorization work in _Spring Security_.
+How do you configure _Spring Security_ in an application?
+What is a _Principal_ in _Spring Security_?
+How do you secure _Restful web services_ in _Spring Security_?
+Explain the importance of the _@PreAuthorize_ annotation.
+What is the role of the _WebSecurityConfigurerAdapter_ class?
+How do you handle _CSRF protection_ in _Spring Security_?
+How is _Spring_ used in building microservices?
+What is _Spring Cloud_?
+Explain the role of _Eureka_ in _Spring Cloud_.
+How do you implement client-side load balancing with _Spring Cloud_?
+What are _Spring Cloud Config_ and its use case?
+Can you explain the _Circuit Breaker pattern_ in the context of _Spring Cloud_?
+What is a _Spring Cloud Gateway_?
+What is _Reactive Programming_ and how does _Spring_ support it?
+What is the _WebFlux framework_ in _Spring 5_?
+Explain the _back-pressure_ concept in _reactive streams_.
+How do you create a _non-blocking REST API_ in _Spring WebFlux_?
+How do you perform unit testing in a _Spring_ application?
+What role does _Spring TestContext Framework_ play in testing?
+What is the _@SpringBootTest_ annotation used for?
+How do you mock beans in a _Spring_ context for testing?
+How does _Spring_ support internationalization (i18n)?
+Explain the concept of _Spring Expression Language (SpEL)_.
+How do you schedule tasks in _Spring_?
+What is the difference between _@Bean_ and _@Component_ in _Spring_?
+Explain the difference between _@Inject_ and _@Autowired_ in _Spring_.
+What are some best practices for designing _Spring_ applications?
+How do you handle exceptions in a _Spring_ application?
+What are the practices for securing passwords in _Spring_?
+How can you improve the performance of a _Spring_-based web application?
+When should you use _Aspect-Oriented Programming_ in _Spring_?
+What is _Spring Integration_ and where is it best applied?
+Explain the key components of _Spring Batch_ and its use cases.
+How does _Spring Integration_ differ from _Spring Batch_?
+What are _endpoints_ in _Spring Integration_?
+Explain the concept of _Chunk processing_ in _Spring Batch_.
+What is _Spring Cloud Data Flow_ and its benefits for data-driven applications?
+How do you create custom processors in _Spring Cloud Data Flow_?
+Explain how _Spring Cloud Data Flow_ handles stream processing.
+How does _Spring_ integrate with message brokers?
+What is _JMS (Java Message Service)_ and how does _Spring_ provide support for it?
+Explain the role of the _@KafkaListener_ annotation in _Spring_.
+How can you send and receive messages using _AMQP_ in _Spring_?
+What is _Spring Kafka_ and how does it integrate with _Apache Kafka_?
+How do you manage transactions in _Kafka_ with _Spring_?
+Explain the use of _KafkaTemplate_ in _Spring Kafka_.
+How do you implement caching in a _Spring_ application?
+What is the _Cache Abstraction_ in _Spring_?
+Explain the differences between _@CachePut_, _@CacheEvict_, and _@Cacheable_ annotations.
+How does _Spring_ support building _GraphQL APIs_?
+What are the advantages of using _GraphQL_ over _REST_ in _Spring_?
+What is the _Spring Boot Actuator_ and its purposes?
+How do you expose custom metrics using _Spring Boot Actuator_?
+Describe how to secure _Spring Boot Actuator_ endpoints.
+What considerations should be made when deploying a _Spring Boot_ application in a containerized environment?
+How can you manage application profiles in a _Spring Boot_ application?
